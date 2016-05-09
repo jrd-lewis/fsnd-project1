@@ -1,5 +1,3 @@
-# fsnd-project1
-
 [logo]: https://udacity.com/favicon.ico "Udacity"
 ![udacity][logo] Project 1: Movie Trailer Website
 ====================================
